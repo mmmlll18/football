@@ -7,3 +7,4 @@
 - Команда 1–M Участие_игрока_в_матче
 - Команда 1–M Контракт_игрока
 - Игрок 1–M Контракт_игрока
+<img width="3355" height="2956" alt="image" src="https://github.com/user-attachments/assets/bfe6dec8-adf5-4795-b50e-7c92a9eda2f7" />
